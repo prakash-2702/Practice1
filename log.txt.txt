@@ -1,0 +1,18 @@
+$ git log
+commit 83b6d34eb24983e9d622399b8f167676daab49e1 (HEAD -> master, rnd)
+Author: prakashsn <prakashsn1999@gmail.com>
+Date:   Tue Jun 21 15:11:45 2022 +0530
+
+    removing third.txt
+
+commit cf677143aee86de472e132e34cf6b2b37c1d785d
+Author: prakashsn <prakashsn1999@gmail.com>
+Date:   Tue Jun 21 15:10:38 2022 +0530
+
+    adding fourth.txt
+
+commit 4ea244e1465b17c47dd64bde8df9a5eabe9a8ee9
+Author: prakashsn <prakashsn1999@gmail.com>
+Date:   Tue Jun 21 15:09:42 2022 +0530
+
+    adding third.txt
